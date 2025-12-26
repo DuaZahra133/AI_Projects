@@ -8,34 +8,31 @@ The focus of Week 1 is to **master regression techniques**, including **linear r
 
 ## 📂 Projects Overview
 
-### **1. Project 1 – Linear Regression: Student Grades**
-- **Objective:** Predict student grades based on study hours, attendance, and other features.  
+### **1. Project 1 – Day _linear& MLR_Predicting Restaurant Tips**
+- **Objective:** Predict returant tips based on sex, time of day, and other features.  
 - **Techniques:** Linear Regression, Train/Test Split, Evaluation Metrics (R², RMSE)  
-- **Dataset:** Synthetic/student dataset  
-- **Outcome:** Predicted student performance and provided actionable insights.  
-- **Notebook:** `01_LinearRegression_StudentGrades.ipynb`
+- **Dataset:**  tips data set fron seaborn 
+- **Outcome:** Predicted resturant tips and provided actionable insights.  
 
 ---
 
-### **2. Project 2 – Multiple Linear Regression: COVID Dataset**
-- **Objective:** Analyze COVID-19 data and predict trends using multiple features.  
+### **2. Project 2 – Day_PolynomialRegression enginesize vs co2 emision.ipynb**
+- **Objective:**  predict c02 emission using multiple features.  
 - **Techniques:** Multiple Linear Regression, Feature Selection, Correlation Analysis  
-- **Dataset:** Public COVID-19 dataset  
-- **Outcome:** Identified key factors affecting infection trends and built predictive models.  
-- **Notebook:** `02_MultiLinearRegression_COVIDData.ipynb`
+- **Dataset:** synthetic dataset 
+- **Outcome:** Identified key  and built predictive models.  
 
 ---
 
-### **3. Project 3 – Advanced Regression & Visualization**
+### **3. Project 3 – Day_Regression_Mastry_Student Marks Prediction**
 - **Objective:** Explore non-linear patterns and advanced regression techniques.  
 - **Techniques:** Polynomial Regression, Residual Analysis, Data Visualization (Matplotlib & Seaborn)  
-- **Dataset:** Student grades / COVID dataset extensions  
+- **Dataset:** Student grades extensions  
 - **Outcome:** Improved prediction accuracy and visualized feature impacts clearly.  
-- **Notebook:** `03_AdvancedRegression_Visualization.ipynb`
 
 ---
 
-### **4. Project 4 – Mini Project: End-to-End Regression**
+### **4. Project 4 – Mini Project: End-to-End Regression Regularization_Ridge_Lasso**
 - **Objective:** Apply all regression skills in a single **end-to-end project**.  
 - **Techniques:**  
   - Exploratory Data Analysis (EDA)  
@@ -45,7 +42,6 @@ The focus of Week 1 is to **master regression techniques**, including **linear r
   - Visualization & Insights  
 - **Dataset:** Combined student performance dataset  
 - **Outcome:** Portfolio-ready mini project demonstrating complete regression workflow.  
-- **Notebook:** `04_Regression_MiniProject.ipynb`
 
 ---
 
@@ -55,8 +51,4 @@ The focus of Week 1 is to **master regression techniques**, including **linear r
 - Data preprocessing & feature scaling  
 - Exploratory Data Analysis (EDA) & Visualization using Matplotlib & Seaborn  
 - Model evaluation metrics: R², Adjusted R², RMSE  
-- End-to-end workflow for **portfolio-ready regression projects**
 
-1. Clone or download the folder.  
-2. Open notebooks in **Google Colab** or **Jupyter Notebook**.  
-3. Follow the workflow in each notebook:  
