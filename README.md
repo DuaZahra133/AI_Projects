@@ -12,10 +12,10 @@ This repository showcases my **skills in regression, classification, and unsuper
 
 | Project | Objective | Techniques | Notebook |
 |---------|-----------|-----------|----------|
-| Student Grades | Predict student grades | Linear Regression, Train/Test Split, Evaluation (R², RMSE) | `01_LinearRegression_StudentGrades.ipynb` |
-| COVID Dataset | Analyze COVID trends | Multiple Linear Regression, Feature Selection | `02_MultiLinearRegression_COVIDData.ipynb` |
-| Advanced Regression | Explore non-linear patterns | Polynomial Regression, Residual Analysis, Visualization | `03_AdvancedRegression_Visualization.ipynb` |
-| Mini Project | End-to-end regression workflow | EDA, Preprocessing, Linear/Polynomial Regression, Evaluation, Insights | `04_Regression_MiniProject.ipynb` |
+| Resturant Tips | Predict resturant tips | Linear Regression, Train/Test Split, Evaluation (R², RMSE) | ` Day_linear& MLR_Predicting Restaurant Tips.ipyn` |
+| engine size vs co2 emission | Analyze Co2 emission | Multiple Linear Regression, Feature Selection | `Day_PolynomialRegression enginesize vs co2 emision.ipynb` |
+| Advanced Regression | Explore non-linear patterns | Polynomial Regression, Residual Analysis, Visualization | `Day_Regression_Mastry_Student Marks Prediction` |
+| Mini Project | End-to-end regression workflow | EDA, Preprocessing, Linear/Polynomial Regression, Evaluation, Insights | `Day_Regularization_Ridge_Lasso` |
 
 **Skills Learned:** Regression modeling, feature scaling, EDA, visualization with Matplotlib/Seaborn, evaluation metrics (R², RMSE), end-to-end workflow  
 
@@ -31,7 +31,6 @@ This repository showcases my **skills in regression, classification, and unsuper
 | Student Pass/Fail | Predict student pass/fail outcomes | Decision Tree, Random Forest | `02_DecisionTree_StudentPassFail.ipynb` |
 | Random Forest Advanced | Ensemble modeling | Random Forest Classifier, Feature Importance | `03_RandomForest_StudentPassFail.ipynb` |
 | KNN & SVM | Classification comparison | K-Nearest Neighbors, Support Vector Machine, Evaluation Metrics | `04_KNN_SVM_Classification.ipynb` |
-| Mini Project | End-to-end classification | EDA → Preprocessing → Model → Evaluation → Visualization | `05_Classification_MiniProject.ipynb` |
 
 **Skills Learned:** Classification algorithms, model comparison, hyperparameter tuning, evaluation metrics (accuracy, precision, recall, ROC), portfolio-ready notebooks  
 
